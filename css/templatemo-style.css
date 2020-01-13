@@ -66,8 +66,8 @@ small {
 }
 
 .tm-brand-container {
-  max-width: 400px;
-  height: 200px;
+  max-width: 500px;
+  height: 300px;
   display: flex;
   align-items: center;
   justify-content: center;
